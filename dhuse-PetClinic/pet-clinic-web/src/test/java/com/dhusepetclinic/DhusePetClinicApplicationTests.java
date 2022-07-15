@@ -1,4 +1,4 @@
-package com.example.dhusepetclinic;
+package com.dhusepetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

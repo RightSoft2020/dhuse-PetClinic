@@ -1,13 +1,13 @@
-package com.example.dhusepetclinic;
+package com.dhusepetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DhusePetClinicApplication {
+public class DHousePetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DhusePetClinicApplication.class, args);
+        SpringApplication.run(DHousePetClinicApplication.class, args);
     }
 
 }
