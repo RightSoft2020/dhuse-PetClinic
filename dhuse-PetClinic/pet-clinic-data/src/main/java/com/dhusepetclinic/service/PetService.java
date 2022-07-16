@@ -1,4 +1,4 @@
-package com.dhusepetclinic.model.services;
+package com.dhusepetclinic.service;
 
 import com.dhusepetclinic.model.Pet;
 

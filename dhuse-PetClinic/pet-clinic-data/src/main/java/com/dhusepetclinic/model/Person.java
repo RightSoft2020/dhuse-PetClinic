@@ -3,9 +3,8 @@ package com.dhusepetclinic.model;
 import java.io.Serializable;
 import java.time.LocalDate;
 
-public class Person implements Serializable {
+public class Person extends BaseEntity {
 
-    private int id;
     private String firstName;
     private String lastName;
     private Gender gender;

@@ -2,7 +2,7 @@ package com.dhusepetclinic.model;
 
 import java.io.Serializable;
 
-public class PetType implements Serializable {
+public class PetType extends BaseEntity {
     private String name;
 
     public String getName() {
